@@ -48,4 +48,4 @@ Observações:
 - App em JavaScript
 - Banco local com expo-sqlite
 - Navegação entre telas via react-navigation (stack)
-- Upload de imagem via expo-image-picker (opcional; ainda mantém campo URL)
+- Upload de imagem via expo-image-picker
