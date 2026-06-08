@@ -27,8 +27,8 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
 Clonar o repositório
 ```bash
-git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
-cd nome-do-seu-repositorio
+git clone [https://github.com/GusmaoGA/estoque-autopecas-app.git](https://github.com/GusmaoGA/estoque-autopecas-app.git)
+cd estoque-autopecas-app
 Expo Catalog App - Estruturado (Managed)
 ---------------------------------------
 
