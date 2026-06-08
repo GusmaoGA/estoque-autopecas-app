@@ -1,8 +1,8 @@
-# 🛠️ Sistema de Gerenciamento de Estoque - Autopeças
+Sistema de Gerenciamento de Estoque - Autopeças
 
 Aplicação mobile desenvolvida para a gestão interna e controle de estoque de uma loja especializada em volantes e autopeças. O aplicativo foi projetado exclusivamente para o gerenciamento do proprietário, permitindo o cadastro de produtos, controle de quantidades, categorias e armazenamento de dados de forma local e segura.
 
-## 🚀 Tecnologias Utilizadas
+Tecnologias Utilizadas
 
 * **Framework:** React Native com Expo (Managed Workflow)
 * **Linguagem:** JavaScript
@@ -12,7 +12,7 @@ Aplicação mobile desenvolvida para a gestão interna e controle de estoque de 
 
 ---
 
-## 💻 Funcionalidades Principais
+Funcionalidades Principais
 
 * **Cadastro e Edição de Produtos:** Registro detalhado de peças com foto, categoria e quantidade.
 * **Banco de Dados Local:** Persistência de dados offline utilizando SQLite para garantir agilidade e segurança das informações.
@@ -21,11 +21,11 @@ Aplicação mobile desenvolvida para a gestão interna e controle de estoque de 
 
 ---
 
-## 🔧 Como Executar o Projeto
+Como Executar o Projeto
 
 Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
-### 1. Clonar o repositório
+Clonar o repositório
 ```bash
 git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
 cd nome-do-seu-repositorio
